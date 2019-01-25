@@ -31,7 +31,7 @@
 
 ## Datalog Inspired Environments
 
-- [Eve](http://witheve.com/) / [repo](https://github.com/witheve/Eve). Programming designed for humans.
+- [Eve](http://witheve.com/) / [repo](https://github.com/witheve/Eve) / [🕰️ history](https://github.com/pel-daniel/mind-bicyles/blob/master/history.md#eve). Programming designed for humans.
 - [Mech lang](http://mech-lang.org/) / [repo](https://github.com/mech-lang/mech). Language for developing data-driven, reactive systems like animations, games, and robots. It makes composing, transforming, and distributing data easy, allowing you to focus on the essential complexity of your problem.
 
 
@@ -102,7 +102,7 @@
 
 ## Spreadsheets
 
-- [Chorus](http://www.chorus-home.org/) / [🎥 video](http://www.chorus-home.org/teaser.mp4). Exploring the middle ground between spreadsheets and programming.
+- [Chorus](http://www.chorus-home.org/) / [🕰️ history](https://github.com/pel-daniel/mind-bicyles/blob/master/history.md#subtextchorus) / [🎥 video](http://www.chorus-home.org/teaser.mp4). Exploring the middle ground between spreadsheets and programming.
 - [Espalier](https://sdg.csail.mit.edu/projects/espalier) / [repo](https://bitbucket.org/espalier-spreadsheet/espalier). Is a new computational paradigm that combines the usability advantages of spreadsheets with SQL-like expressive power, providing a way to build a wide class of interactive applications more easily than with existing tools.
 - [Flowsheets](https://tinyletter.com/Flowsheets/letters/flowsheets-visualizations) / [repo](https://github.com/Glench/Flowsheets-v2) / [🎥 demo](https://www.youtube.com/watch?v=y1Ca5czOY7Q) [🎥 Flowsheets visualizations](). A research prototype programming environment for making programs while seeing the data the program outputs.
 - [Guesstimate](https://www.getguesstimate.com/) / [repo](https://github.com/getguesstimate/guesstimate-app/). A spreadsheet for things that aren’t certain.
