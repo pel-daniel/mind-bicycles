@@ -67,6 +67,7 @@
 ## Other
 
 - CDG Labs 💀 / [Github](https://github.com/cdglabs). 
+- [Chorus](http://www.chorus-home.org/) / [🕰️ history](https://github.com/pel-daniel/mind-bicyles/blob/master/history.md#subtextchorus) / [🎥 video](https://vimeo.com/179904952). Exploring the middle ground between spreadsheets and programming.
 - [Dynamicland](https://dynamicland.org/). Inventing a new computational medium where people work together with real objects in the real world, not alone with virtual objects on screens.
 - [Human Advancement Research Community (HARC)](https://harc.ycr.org/) 💀 / [YC](https://blog.ycombinator.com/harc/). HARC’s mission is to ensure human wisdom exceeds human power, by inventing and freely sharing ideas and technology that allow all humans to see further and understand more deeply. 
 - [Quorum](https://quorumlanguage.com/) / [repo](https://bitbucket.org/stefika/quorum-language). Evidence-oriented programming language.
@@ -102,7 +103,6 @@
 
 ## Spreadsheets
 
-- [Chorus](http://www.chorus-home.org/) / [🕰️ history](https://github.com/pel-daniel/mind-bicyles/blob/master/history.md#subtextchorus) / [🎥 video](http://www.chorus-home.org/teaser.mp4). Exploring the middle ground between spreadsheets and programming.
 - [Espalier](https://sdg.csail.mit.edu/projects/espalier) / [repo](https://bitbucket.org/espalier-spreadsheet/espalier). Is a new computational paradigm that combines the usability advantages of spreadsheets with SQL-like expressive power, providing a way to build a wide class of interactive applications more easily than with existing tools.
 - [Flowsheets](https://tinyletter.com/Flowsheets/letters/flowsheets-visualizations) / [repo](https://github.com/Glench/Flowsheets-v2) / [🎥 demo](https://www.youtube.com/watch?v=y1Ca5czOY7Q) [🎥 Flowsheets visualizations](). A research prototype programming environment for making programs while seeing the data the program outputs.
 - [Guesstimate](https://www.getguesstimate.com/) / [repo](https://github.com/getguesstimate/guesstimate-app/). A spreadsheet for things that aren’t certain.
