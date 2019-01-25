@@ -1,2 +1,138 @@
-# mind-bicyles
-Future of programming projects
+# Bicycles for the mind
+
+- [Chart](#Charts)
+- [Code Editors](#Code Editors)
+- [Datalog Inspired Environments](#Datalog Inspired Environments)
+- [Direct Manipulation Graphics Editors](#Direct Manipulation Graphics Editors)
+- [Interactive video player with code](#Interactive video player with code)
+- [Interactive visualizations](#Interactive visualizations)
+- [Live programming environments for music](#Live programming environments for music)
+- [Notebooks](#Notebooks)
+- [Other](#Other)
+- [Projectional Editors](#Projectional Editors)
+- [Semantic Editors](#Semantic Editors)
+- [Smalltalk like Environment](#Smalltalk like Environment)
+- [Spreadsheets](#Spreadsheets)
+- [Statecharts](#Statecharts)
+- [Visual Programming with Nodes](#Visual Programming with Nodes)
+- [Other lists with links](#Other lists with links)
+
+
+## Charts
+
+- [Charticulator](https://charticulator.com/) / [🎥 video](https://charticulator.azureedge.net/videos/charticulator-supplemental.mp4). Interactive Construction of Bespoke Chart Layouts.
+
+## Code Editors
+
+- [Light Table](http://lighttable.com/) / [repo](https://github.com/LightTable/LightTable) / [🎥 video](https://www.youtube.com/watch?v=52SVAMM3V78). The next generation code editor.
+
+
+## Datalog Inspired Environments
+
+- [Eve](http://witheve.com/) / [repo](https://github.com/witheve/Eve). Programming designed for humans.
+- [Mech lang](http://mech-lang.org/) / [repo](https://github.com/mech-lang/mech). Language for developing data-driven, reactive systems like animations, games, and robots. It makes composing, transforming, and distributing data easy, allowing you to focus on the essential complexity of your problem.
+
+
+## Direct Manipulation Graphics Editors
+
+- [Apparatus](http://aprt.us/) / [repo](https://github.com/cdglabs/apparatus) / [🎥 video](https://www.youtube.com/watch?v=i3Xack9ufYk). A hybrid graphics editor and programming environment for creating interactive diagrams.
+- [Recursive Drawing](http://recursivedrawing.com/) / [🎥 video](https://vimeo.com/41822151). An exploration of user interface ideas towards the development of a spatially-oriented programming environment. 
+- [sketch-n-sketch](http://ravichugh.github.io/sketch-n-sketch/) / [repo](https://github.com/ravichugh/sketch-n-sketch). Direct Manipulation Programming for HTML/SVG.
+- [Vogo](http://mgrf.de/vogo/) / [repo](https://github.com/rbyte/Vogo). An experimental direct manipulation interface for Turtle Graphics.
+
+
+## Interactive video player with code
+
+- [Scrimba](https://scrimba.com/). Play around with the instructors code any time, right in the player.
+- [Vimsical](https://vimsical.com/) / [repo](https://github.com/vimsical/vimsical). A version control system and coding environment for fine-grained change tracking.
+
+
+## Interactive visualizations
+
+- [g9](http://omrelli.ug/g9/) / [repo](https://github.com/bijection/g9). Automatically interactive graphics.
+
+
+## Live programming environments for music
+
+- [Orca](https://wiki.xxiivv.com/#orca) / [repo](https://github.com/hundredrabbits/orca). 
+
+
+## Notebooks
+
+- [Carbide](https://alpha.trycarbide.com)
+
+
+## Other
+
+- CDG Labs 💀 / [Github](https://github.com/cdglabs). 
+- [Dynamicland](https://dynamicland.org/). Inventing a new computational medium where people work together with real objects in the real world, not alone with virtual objects on screens.
+- [Human Advancement Research Community (HARC)](https://harc.ycr.org/) 💀 / [YC](https://blog.ycombinator.com/harc/). HARC’s mission is to ensure human wisdom exceeds human power, by inventing and freely sharing ideas and technology that allow all humans to see further and understand more deeply. 
+- [Quorum](https://quorumlanguage.com/) / [repo](https://bitbucket.org/stefika/quorum-language). Evidence-oriented programming language.
+- [Unison](http://unisonweb.org/posts/) / [repo](https://github.com/unisonweb/unison). Next-generation programming platform.
+- [Valaa](https://valaa.com/) / [repo](https://github.com/valaatech/). Front-end and back-end development joined a la Meteor.
+- [Zells](http://zells.org/) / [Github](https://github.com/zells). A distributed message-based single-instruction single-structure computing platform.
+
+
+## Projectional Editors
+
+- [Envision](http://dimitar-asenov.github.io/Envision/) / [repo](https://github.com/dimitar-asenov/Envision). A next-generation IDE that makes programming more efficient.
+- [Luna lang](www.luna-lang.org) / [repo](https://github.com/luna/luna). A WYSIWYG language for data processing.
+- [MPS](https://www.jetbrains.com/mps/) / [repo(mirror)](https://github.com/JetBrains/MPS). Create your own Domain Specific Language.
+- [ProjecturEd](http://projectured.org/) / [repo](https://github.com/projectured/projectured) General purpose projectional editor written in Common Lisp.
+
+
+## Semantic Editors
+
+- [Envision](http://dimitar-asenov.github.io/Envision/) / [repo](https://github.com/dimitar-asenov/Envision). A next-generation IDE that makes programming more efficient.
+- Foundry / [repo](https://github.com/int-index/foundry). Morte IDE.
+- [Hazel](http://hazel.org/) / [repo](https://github.com/hazelgrove/hazel). Live functional programming environment featuring typed holes.
+- [Isomorf](https://isomorf.io/#!/) / no repo available. A visual programming environment for cloud services.
+- [Lamdu](http://www.lamdu.org/) / [repo](https://github.com/lamdu/lamdu). An open source live programming environment.
+- Omni / [repo](https://github.com/daniel-kun/omni).
+- [Syntactor](https://gregoor.github.io/syntactor) / [repo](https://github.com/Gregoor/syntactor). A JSON editor for editing data instead of syntax.
+- [Zinal](https://www.youtube.com/watch?v=9msNAMTMBU0) / [repo](https://gitlab.com/nickcollins/zinal). 
+
+
+## Smalltalk like Environment
+
+- [Fizzygum](http://fizzygum.org/) / [repo](http://fizzygum.org/). A new web framework, an entire platform really, designed from the ground up to handle complex things easily. Put the power of an entire Operating System at your fingertips.
+
+
+## Spreadsheets
+
+- [Chorus](http://www.chorus-home.org/) / [🎥 video](http://www.chorus-home.org/teaser.mp4). Exploring the middle ground between spreadsheets and programming.
+- [Espalier](https://sdg.csail.mit.edu/projects/espalier) / [repo](https://bitbucket.org/espalier-spreadsheet/espalier). Is a new computational paradigm that combines the usability advantages of spreadsheets with SQL-like expressive power, providing a way to build a wide class of interactive applications more easily than with existing tools.
+- [Flowsheets](https://tinyletter.com/Flowsheets/letters/flowsheets-visualizations) / [repo](https://github.com/Glench/Flowsheets-v2) / [🎥 demo](https://www.youtube.com/watch?v=y1Ca5czOY7Q) [🎥 Flowsheets visualizations](). A research prototype programming environment for making programs while seeing the data the program outputs.
+- [Guesstimate](https://www.getguesstimate.com/) / [repo](https://github.com/getguesstimate/guesstimate-app/). A spreadsheet for things that aren’t certain.
+- [Mesh](http://mesh-spreadsheet.com/) / [repo](https://github.com/chrispsn/mesh/). JavaScript code editor that feels like a spreadsheet.
+- [Microsoft's Research for Excel](https://www.microsoft.com/en-us/research/blog/influencing-mainstream-software-applying-programming-language-research-ideas-to-transform-spreadsheets/) / [🎥 video: Excel's new data types](https://www.youtube.com/watch?v=gbImc7A8_Q8).
+
+
+## Statecharts
+
+- [Xstate](https://xstate.js.org/docs) / [repo](https://github.com/davidkpiano/xstate). State machines and statecharts for the modern web.
+
+
+## Visual Programming with Nodes
+
+- Glance / [repo](https://github.com/rgleichman/glance). A visual Haskell.
+- Lire / [repo](https://github.com/honix/Lire). Visual programming tool based on Common Lisp.
+- [Lobe](https://lobe.ai/). Train ML models with a Node interface.
+- [Luna lang](www.luna-lang.org) / [repo](https://github.com/luna/luna). A WYSIWYG language for data processing.
+- [NoFlo](https://noflojs.org/) / [repo](https://github.com/noflo/noflo). Flow-based programming for JavaScript.
+- [Pane](http://joshuahhh.com/projects/pane/) / [🎥 video](https://www.youtube.com/watch?v=fIEcXAHy6bU). Programming with visible data.
+- [rete.js](https://rete.js.org) / [repo](https://github.com/retejs/rete). JavaScript framework for visual programming and creating node editor.
+- [Skov](http://skov.software/en/) / [repo](https://github.com/nicolas-p/skov). Skov is a visual programming environment based on Factor.
+- SwiftVPL / [repo](https://github.com/NathanFlurry/VisualProgrammingLanguage) / [🎥 video](https://www.youtube.com/watch?v=BNWC_OF5Q-Y). A visual programming language written in Swift that assembles to executable Swift code. WWDC '18 scholarship submission.
+- [Viskell](https://github.com/viskell/viskell/blob/master/viskell-nlfpday.pdf) / [repo](https://github.com/viskell/viskell). Visual programming meets Haskell.
+
+
+## Other lists with links
+
+- [Gallery of Programmer Interfaces](https://docs.google.com/presentation/d/1MD-CgzODFWzdpnYXr8bEgysfDmb8PDV6iCAjH5JIvaI)
+- [Glance's Related Work](https://github.com/rgleichman/glance/wiki/Related-work)
+- [Lists of projectional editors in reddit `nosyntax`](https://www.reddit.com/r/nosyntax/wiki/projects)
+- [Node-based & visual programming interfaces](https://www.are.na/francis-tseng/node-based-visual-programming-interfaces)
+- [SomethingNew](https://github.com/d-cook/SomethingNew). Collaboration for reinventing software in human terms.
+- [Visual Programming Codex](https://github.com/ivanreese/visual-programming-codex)
+- [Visual Programming Languages - Snapshots](http://blog.interfacevision.com/design/design-visual-progarmming-languages-snapshots/)
