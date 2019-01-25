@@ -1,21 +1,23 @@
 # Bicycles for the mind
 
-- [Chart](#Charts)
-- [Code Editors](#Code Editors)
-- [Datalog Inspired Environments](#Datalog Inspired Environments)
-- [Direct Manipulation Graphics Editors](#Direct Manipulation Graphics Editors)
-- [Interactive video player with code](#Interactive video player with code)
-- [Interactive visualizations](#Interactive visualizations)
-- [Live programming environments for music](#Live programming environments for music)
-- [Notebooks](#Notebooks)
-- [Other](#Other)
-- [Projectional Editors](#Projectional Editors)
-- [Semantic Editors](#Semantic Editors)
-- [Smalltalk like Environment](#Smalltalk like Environment)
-- [Spreadsheets](#Spreadsheets)
-- [Statecharts](#Statecharts)
-- [Visual Programming with Nodes](#Visual Programming with Nodes)
-- [Other lists with links](#Other lists with links)
+### Table of contents
+
+- [Charts](#charts)
+- [Code Editors](#code-editors)
+- [Datalog Inspired Environments](#datalog-inspired-environments)
+- [Direct Manipulation Graphics Editors](#direct-manipulation-graphics-editors)
+- [Interactive video player with code](#interactive-video-player-with-code)
+- [Interactive visualizations](#interactive-visualizations)
+- [Live programming environments for music](#live-programming-environments-for-music)
+- [Notebooks](#notebooks)
+- [Other](#other)
+- [Projectional Editors](#projectional-editors)
+- [Semantic Editors](#semantic-editors)
+- [Smalltalk like Environment](#smalltalk-like-environment)
+- [Spreadsheets](#spreadsheets)
+- [Statecharts](#statecharts)
+- [Visual Programming with Nodes](#visual-programming-with-nodes)
+- [Other lists with links](#other-lists-with-links)
 
 
 ## Charts
