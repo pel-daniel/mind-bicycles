@@ -16,3 +16,4 @@
 ## [Subtext/Chorus](http://www.chorus-home.org/)
 
 - [🎥 Two-way Dataflow (2014)](https://vimeo.com/106073134).
+- [Subtext](http://www.subtext-lang.org/).
