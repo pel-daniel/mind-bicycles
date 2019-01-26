@@ -62,6 +62,7 @@
 ## Notebooks
 
 - [Carbide](https://alpha.trycarbide.com)
+- Hyperhaskell / [repo](https://github.com/HeinrichApfelmus/hyper-haskell). Graphical interpreter for the programming language Haskell. You use worksheets to enter expressions and evaluate them. Results are displayed graphically using HTML.
 
 
 ## Other
