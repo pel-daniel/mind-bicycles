@@ -81,7 +81,7 @@
 - [Envision](http://dimitar-asenov.github.io/Envision/) / [repo](https://github.com/dimitar-asenov/Envision). A next-generation IDE that makes programming more efficient.
 - [Luna lang](www.luna-lang.org) / [repo](https://github.com/luna/luna). A WYSIWYG language for data processing.
 - [MPS](https://www.jetbrains.com/mps/) / [repo(mirror)](https://github.com/JetBrains/MPS). Create your own Domain Specific Language.
-- [ProjecturEd](http://projectured.org/) / [repo](https://github.com/projectured/projectured) General purpose projectional editor written in Common Lisp.
+- [ProjecturEd](http://projectured.org/) / [repo](https://github.com/projectured/projectured). General purpose projectional editor written in Common Lisp.
 
 
 ## Semantic Editors
@@ -89,7 +89,7 @@
 - [Envision](http://dimitar-asenov.github.io/Envision/) / [repo](https://github.com/dimitar-asenov/Envision). A next-generation IDE that makes programming more efficient.
 - Foundry / [repo](https://github.com/int-index/foundry). Morte IDE.
 - [Hazel](http://hazel.org/) / [repo](https://github.com/hazelgrove/hazel). Live functional programming environment featuring typed holes.
-- [Isomorf](https://isomorf.io/#!/) / no repo available. A visual programming environment for cloud services.
+- [Isomorf](https://isomorf.io/#!/). A visual programming environment for cloud services.
 - [Lamdu](http://www.lamdu.org/) / [repo](https://github.com/lamdu/lamdu). An open source live programming environment.
 - Omni / [repo](https://github.com/daniel-kun/omni).
 - [Syntactor](https://gregoor.github.io/syntactor) / [repo](https://github.com/Gregoor/syntactor). A JSON editor for editing data instead of syntax.
@@ -104,7 +104,7 @@
 ## Spreadsheets
 
 - [Espalier](https://sdg.csail.mit.edu/projects/espalier) / [repo](https://bitbucket.org/espalier-spreadsheet/espalier). Is a new computational paradigm that combines the usability advantages of spreadsheets with SQL-like expressive power, providing a way to build a wide class of interactive applications more easily than with existing tools.
-- [Flowsheets](https://tinyletter.com/Flowsheets/letters/flowsheets-visualizations) / [repo](https://github.com/Glench/Flowsheets-v2) / [🎥 demo](https://www.youtube.com/watch?v=y1Ca5czOY7Q) [🎥 Flowsheets visualizations](). A research prototype programming environment for making programs while seeing the data the program outputs.
+- [Flowsheets](https://tinyletter.com/Flowsheets/letters/flowsheets-visualizations) / [repo](https://github.com/Glench/Flowsheets-v2) / [🎥 demo](https://www.youtube.com/watch?v=y1Ca5czOY7Q) [🎥 Flowsheets visualizations](https://www.youtube.com/watch?v=V3Zjk_Wljt4). A research prototype programming environment for making programs while seeing the data the program outputs.
 - [Guesstimate](https://www.getguesstimate.com/) / [repo](https://github.com/getguesstimate/guesstimate-app/). A spreadsheet for things that aren’t certain.
 - [Mesh](http://mesh-spreadsheet.com/) / [repo](https://github.com/chrispsn/mesh/). JavaScript code editor that feels like a spreadsheet.
 - [Microsoft's Research for Excel](https://www.microsoft.com/en-us/research/blog/influencing-mainstream-software-applying-programming-language-research-ideas-to-transform-spreadsheets/) / [🎥 video: Excel's new data types](https://www.youtube.com/watch?v=gbImc7A8_Q8).
