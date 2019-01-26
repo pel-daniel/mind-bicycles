@@ -68,6 +68,7 @@
 
 - CDG Labs 💀 / [Github](https://github.com/cdglabs). 
 - [Chorus](http://www.chorus-home.org/) / [🕰️ history](https://github.com/pel-daniel/mind-bicyles/blob/master/history.md#subtextchorus) / [🎥 video](https://vimeo.com/179904952). Exploring the middle ground between spreadsheets and programming.
+- [Dark lang](https://darklang.com/). We want to make it possible to build a complete scalable app in an afternoon.
 - [Dynamicland](https://dynamicland.org/). Inventing a new computational medium where people work together with real objects in the real world, not alone with virtual objects on screens.
 - [Human Advancement Research Community (HARC)](https://harc.ycr.org/) 💀 / [YC](https://blog.ycombinator.com/harc/). HARC’s mission is to ensure human wisdom exceeds human power, by inventing and freely sharing ideas and technology that allow all humans to see further and understand more deeply. 
 - [Quorum](https://quorumlanguage.com/) / [repo](https://bitbucket.org/stefika/quorum-language). Evidence-oriented programming language.
