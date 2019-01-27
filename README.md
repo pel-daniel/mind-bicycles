@@ -10,6 +10,7 @@
 - [Interactive visualizations](#interactive-visualizations)
 - [Live programming environments for music](#live-programming-environments-for-music)
 - [Notebooks](#notebooks)
+- [Operating Systems](#opearting-systems)
 - [Other](#other)
 - [Projectional Editors](#projectional-editors)
 - [Semantic Editors](#semantic-editors)
@@ -63,6 +64,11 @@
 
 - [Carbide](https://alpha.trycarbide.com)
 - Hyperhaskell / [repo](https://github.com/HeinrichApfelmus/hyper-haskell). Graphical interpreter for the programming language Haskell. You use worksheets to enter expressions and evaluate them. Results are displayed graphically using HTML.
+
+
+## Operating Systems
+
+- [Ideal OS](https://joshondesign.com/2017/08/18/idealos_essay) / [repo](https://github.com/joshmarinacci/idealos) / [✉️ mailing list](https://groups.google.com/forum/#!forum/idealos-design). Rebooting the Desktop Operating System Experience.
 
 
 ## Other
