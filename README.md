@@ -10,7 +10,7 @@
 - [Interactive visualizations](#interactive-visualizations)
 - [Live programming environments for music](#live-programming-environments-for-music)
 - [Notebooks](#notebooks)
-- [Operating Systems](#opearting-systems)
+- [Operating Systems](#operating-systems)
 - [Other](#other)
 - [Projectional Editors](#projectional-editors)
 - [Semantic Editors](#semantic-editors)
