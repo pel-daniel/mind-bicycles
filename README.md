@@ -28,6 +28,7 @@
 ## Code Editors
 
 - [Light Table](http://lighttable.com/) / [repo](https://github.com/LightTable/LightTable) / [🎥 video](https://www.youtube.com/watch?v=52SVAMM3V78). The next generation code editor.
+- Moonchild / [repo](https://github.com/harc/moonchild) / [🎥 5-minute highlight reel](https://vimeo.com/106578509) [🎥 15-minute demo of Moonchild](https://vimeo.com/106498564). It's a toolkit for experimenting with new kinds of programming interfaces. It's based on CodeMirror, a web-based text editor. Moonchild adds a framework which makes it easy to create plugins which modify and extend the source code presentation.
 
 
 ## Datalog Inspired Environments
