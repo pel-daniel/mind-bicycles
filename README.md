@@ -5,6 +5,7 @@
 - [Charts](#charts)
 - [Code Editors](#code-editors)
 - [Datalog Inspired Environments](#datalog-inspired-environments)
+- [Debugging Tools](#debugging-tools)
 - [Direct Manipulation Graphics Editors](#direct-manipulation-graphics-editors)
 - [Interactive video player with code](#interactive-video-player-with-code)
 - [Interactive visualizations](#interactive-visualizations)
@@ -34,6 +35,11 @@
 
 - [Eve](http://witheve.com/) / [repo](https://github.com/witheve/Eve) / [🕰️ history](https://github.com/pel-daniel/mind-bicyles/blob/master/history.md#eve). Programming designed for humans.
 - [Mech lang](http://mech-lang.org/) / [repo](https://github.com/mech-lang/mech). Language for developing data-driven, reactive systems like animations, games, and robots. It makes composing, transforming, and distributing data easy, allowing you to focus on the essential complexity of your problem.
+
+
+## Debugging Tools
+
+- [CodeCrumbs](https://codecrumbs.io/) / [repo](https://github.com/Bogdan-Lyashenko/codecrumbs). Learn, design or document codebase by putting breadcrumbs in source code.
 
 
 ## Direct Manipulation Graphics Editors
