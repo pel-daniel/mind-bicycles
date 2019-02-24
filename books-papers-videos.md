@@ -14,6 +14,11 @@ Technology changes every day, but the basic ways that computers can help us lear
 
 ## Papers
 
+### [Can Programming Be Liberated, Period?](http://www.wisdom.weizmann.ac.il/~harel/papers/LiberatingProgramming.pdf) David Harel / 2008
+
+the author describes his dream about freeing ourselves from the straightjackets of programming, making the process of getting computers to do what we want intuitive, natural, and also fun. He recommends harnessing the great power of computing and transforming a natural and almost playful means of programming so that it becomes fully operational and machine-doable.
+
+
 ### [Out of the tar pit](http://curtclifton.net/papers/MoseleyMarks06a.pdf) / 2006
 
 Complexity is the single major difficulty in the successful develop-
@@ -29,5 +34,6 @@ gramming and Codd’s relational model of data.
 
 ## Videos
 
-### [Inventing on Principle](https://vimeo.com/36579366) by Bret Victor / 2012
+### [Future of Programming](https://vimeo.com/71278954) by Bret Victor / 2013
 
+### [Inventing on Principle](https://vimeo.com/36579366) by Bret Victor / 2012
