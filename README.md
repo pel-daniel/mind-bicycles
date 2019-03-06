@@ -45,6 +45,7 @@
 ## Direct Manipulation Graphics Editors
 
 - [Apparatus](http://aprt.us/) / [repo](https://github.com/cdglabs/apparatus) / [🎥 video](https://www.youtube.com/watch?v=i3Xack9ufYk). A hybrid graphics editor and programming environment for creating interactive diagrams.
+- [Dacein](https://szymonkaliski.github.io/dacein/) / [repo](https://github.com/szymonkaliski/dacein) / [article](https://szymonkaliski.com/log/2019-03-01-building-dacein/). Experimental creative coding IDE.
 - [Recursive Drawing](http://recursivedrawing.com/) / [🎥 video](https://vimeo.com/41822151). An exploration of user interface ideas towards the development of a spatially-oriented programming environment. 
 - [sketch-n-sketch](http://ravichugh.github.io/sketch-n-sketch/) / [repo](https://github.com/ravichugh/sketch-n-sketch). Direct Manipulation Programming for HTML/SVG.
 - [Vogo](http://mgrf.de/vogo/) / [repo](https://github.com/rbyte/Vogo). An experimental direct manipulation interface for Turtle Graphics.
