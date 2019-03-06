@@ -17,7 +17,7 @@
 - [Semantic Editors](#semantic-editors)
 - [Smalltalk like Environment](#smalltalk-like-environment)
 - [Spreadsheets](#spreadsheets)
-- [Statecharts](#statecharts)
+- [Statemachines/Statecharts](#statemachinesstatecharts)
 - [Visual Programming with Nodes](#visual-programming-with-nodes)
 - [Other lists with links](#other-lists-with-links)
 
@@ -25,6 +25,7 @@
 ## Charts
 
 - [Charticulator](https://charticulator.com/) / [🎥 video](https://charticulator.azureedge.net/videos/charticulator-supplemental.mp4). Interactive Construction of Bespoke Chart Layouts.
+
 
 ## Code Editors
 
@@ -128,8 +129,9 @@
 - [Microsoft's Research for Excel](https://www.microsoft.com/en-us/research/blog/influencing-mainstream-software-applying-programming-language-research-ideas-to-transform-spreadsheets/) / [🎥 video: Excel's new data types](https://www.youtube.com/watch?v=gbImc7A8_Q8).
 
 
-## Statecharts
+## Statemachines/Statecharts
 
+- [InterState](http://interstate.from.so/) / [repo](https://github.com/soney/interstate) / [🎥 video](https://www.youtube.com/watch?v=M--9jsuDZis) / [paper](http://from.so/p/interstate.pdf). InterState is a programming language and environment that addresses the challenges of writing and reusing user interface code. InterState represents interactive behaviors clearly and concisely using a combination of novel forms of state machines and constraints.
 - [Xstate](https://xstate.js.org/docs) / [repo](https://github.com/davidkpiano/xstate). State machines and statecharts for the modern web.
 
 
