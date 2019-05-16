@@ -17,7 +17,7 @@
 - [Semantic Editors](#semantic-editors)
 - [Smalltalk like Environment](#smalltalk-like-environment)
 - [Spreadsheets](#spreadsheets)
-- [Statemachines/Statecharts](#statemachinesstatecharts)
+- [State machines/State charts](#state-machinesstate-charts)
 - [Visual Programming with Nodes](#visual-programming-with-nodes)
 - [Other lists with links](#other-lists-with-links)
 
@@ -129,9 +129,10 @@
 - [Microsoft's Research for Excel](https://www.microsoft.com/en-us/research/blog/influencing-mainstream-software-applying-programming-language-research-ideas-to-transform-spreadsheets/) / [🎥 video: Excel's new data types](https://www.youtube.com/watch?v=gbImc7A8_Q8).
 
 
-## Statemachines/Statecharts
+## State machines/State charts
 
 - [InterState](http://interstate.from.so/) / [repo](https://github.com/soney/interstate) / [🎥 video](https://www.youtube.com/watch?v=M--9jsuDZis) / [paper](http://from.so/p/interstate.pdf). InterState is a programming language and environment that addresses the challenges of writing and reusing user interface code. InterState represents interactive behaviors clearly and concisely using a combination of novel forms of state machines and constraints.
+- [Sketch.systems](https://sketch.systems). Helps software designers think about complex product behavior. Sketch out states, add prototypes, and clarify questions quickly.
 - [Xstate](https://xstate.js.org/docs) / [repo](https://github.com/davidkpiano/xstate). State machines and statecharts for the modern web.
 
 
