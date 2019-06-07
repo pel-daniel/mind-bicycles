@@ -65,7 +65,7 @@
 
 ## Live programming environments for music
 
-- [Orca](https://wiki.xxiivv.com/#orca) / [repo](https://github.com/hundredrabbits/orca). 
+- [Orca](https://wiki.xxiivv.com/#orca) / [repo](https://github.com/hundredrabbits/orca) / [🎥 video](https://www.youtube.com/watch?v=RaI_TuISSJE). Orca is an esoteric programming language, designed to create procedural sequencers. 
 
 
 ## Notebooks
