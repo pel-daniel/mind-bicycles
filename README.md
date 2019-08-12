@@ -107,6 +107,7 @@
 
 - [Envision](http://dimitar-asenov.github.io/Envision/) / [repo](https://github.com/dimitar-asenov/Envision). A next-generation IDE that makes programming more efficient.
 - Foundry / [repo](https://github.com/int-index/foundry). Morte IDE.
+- [Fructure](https://fructure-editor.tumblr.com) / [repo](https://github.com/disconcision/fructure) / [🎥 demo](https://www.youtube.com/watch?v=CnbVCNIh1NA). A structured interaction engine.
 - [Hazel](http://hazel.org/) / [repo](https://github.com/hazelgrove/hazel). Live functional programming environment featuring typed holes.
 - [Isomorf](https://isomorf.io/#!/). A visual programming environment for cloud services.
 - [Lamdu](http://www.lamdu.org/) / [repo](https://github.com/lamdu/lamdu). An open source live programming environment.
