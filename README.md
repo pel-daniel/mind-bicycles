@@ -41,6 +41,7 @@
 ## Debugging Tools
 
 - [CodeCrumbs](https://codecrumbs.io/) / [repo](https://github.com/Bogdan-Lyashenko/codecrumbs). Learn, design or document codebase by putting breadcrumbs in source code.
+- [Debugger Canvas](https://www.microsoft.com/en-us/research/publication/debugger-canvas-industrial-experience-with-the-code-bubbles-paradigm/) / [🎥 video](https://www.youtube.com/watch?v=3p9XUwIlhJg). Code bubbles for debugging in Visual Studio.
 
 
 ## Direct Manipulation Graphics Editors
