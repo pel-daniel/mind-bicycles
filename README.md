@@ -127,6 +127,7 @@
 
 - [Espalier](https://sdg.csail.mit.edu/projects/espalier) / [repo](https://bitbucket.org/espalier-spreadsheet/espalier). Is a new computational paradigm that combines the usability advantages of spreadsheets with SQL-like expressive power, providing a way to build a wide class of interactive applications more easily than with existing tools.
 - [Flowsheets](https://tinyletter.com/Flowsheets/letters/flowsheets-visualizations) / [repo](https://github.com/Glench/Flowsheets-v2) / [🎥 demo](https://www.youtube.com/watch?v=y1Ca5czOY7Q) [🎥 Flowsheets visualizations](https://www.youtube.com/watch?v=V3Zjk_Wljt4). A research prototype programming environment for making programs while seeing the data the program outputs.
+- [Gneiss](https://www.cs.cmu.edu/~shihpinc/gneiss.html). Creating interactive web data applications with Spreadsheets.
 - [Guesstimate](https://www.getguesstimate.com/) / [repo](https://github.com/getguesstimate/guesstimate-app/). A spreadsheet for things that aren’t certain.
 - [Mesh](http://mesh-spreadsheet.com/) / [repo](https://github.com/chrispsn/mesh/). JavaScript code editor that feels like a spreadsheet.
 - [Microsoft's Research for Excel](https://www.microsoft.com/en-us/research/blog/influencing-mainstream-software-applying-programming-language-research-ideas-to-transform-spreadsheets/) / [🎥 video: Excel's new data types](https://www.youtube.com/watch?v=gbImc7A8_Q8).
