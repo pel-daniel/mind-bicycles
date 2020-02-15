@@ -29,6 +29,7 @@
 
 ## Code Editors
 
+- [Code Bubbles](http://www.andrewbragdon.com/codebubbles_site.asp) / [🎥 video](https://www.youtube.com/watch?v=PsPX0nElJ0k). The essential goal of this project is to make it easier for developers to see many fragments of code (or other information) at once based on collections of lightweight, editable fragments called bubbles.
 - [Light Table](http://lighttable.com/) / [repo](https://github.com/LightTable/LightTable) / [🎥 video](https://www.youtube.com/watch?v=52SVAMM3V78). The next generation code editor.
 
 
@@ -41,6 +42,7 @@
 ## Debugging Tools
 
 - [CodeCrumbs](https://codecrumbs.io/) / [repo](https://github.com/Bogdan-Lyashenko/codecrumbs). Learn, design or document codebase by putting breadcrumbs in source code.
+- [Code Bubbles](http://www.andrewbragdon.com/codebubbles_site.asp) / [🎥 video](https://youtu.be/PsPX0nElJ0k?t=346). The essential goal of this project is to make it easier for developers to see many fragments of code (or other information) at once based on collections of lightweight, editable fragments called bubbles.
 - [Debugger Canvas](https://www.microsoft.com/en-us/research/publication/debugger-canvas-industrial-experience-with-the-code-bubbles-paradigm/) / [🎥 video](https://www.youtube.com/watch?v=3p9XUwIlhJg). Code bubbles for debugging in Visual Studio.
 
 
