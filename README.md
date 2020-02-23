@@ -79,7 +79,7 @@
 
 ## Operating Systems
 
-- [Ideal OS](https://joshondesign.com/2017/08/18/idealos_essay) / [repo](https://github.com/joshmarinacci/idealos) / [✉️ mailing list](https://groups.google.com/forum/#!forum/idealos-design). Rebooting the Desktop Operating System Experience.
+- [Ideal OS](https://joshondesign.com/2017/08/18/idealos_essay) / [repo](https://github.com/joshmarinacci/idealos) / [✉️ mailing list](https://groups.google.com/forum/#!forum/idealos-design). Mockups of an ideal desktop operating system / environment.
 - [Project Oberon](http://www.projectoberon.com/). Project Oberon is a design for a complete desktop computer system from scratch.  Its simplicity and clarity enables a single person to know and implement the whole system, while still providing enough power to make it useful and usable in a production environment.
 
 
