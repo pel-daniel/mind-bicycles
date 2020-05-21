@@ -161,6 +161,7 @@
 - [Gallery of Programmer Interfaces](https://docs.google.com/presentation/d/1MD-CgzODFWzdpnYXr8bEgysfDmb8PDV6iCAjH5JIvaI)
 - [Glance's Related Work](https://github.com/rgleichman/glance/wiki/Related-work)
 - [Lists of projectional editors in reddit `nosyntax`](https://www.reddit.com/r/nosyntax/wiki/projects)
+- [Networked Notebook Catalogue](https://github.com/prathyvsh/networked-notebooks)
 - [Node-based & visual programming interfaces](https://www.are.na/francis-tseng/node-based-visual-programming-interfaces)
 - [SomethingNew](https://github.com/d-cook/SomethingNew). Collaboration for reinventing software in human terms.
 - [Visual Programming Codex](https://github.com/ivanreese/visual-programming-codex)
