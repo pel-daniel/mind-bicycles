@@ -153,6 +153,7 @@
 - [rete.js](https://rete.js.org) / [repo](https://github.com/retejs/rete). JavaScript framework for visual programming and creating node editor.
 - [Skov](http://skov.software/en/) / [repo](https://github.com/nicolas-p/skov). Skov is a visual programming environment based on Factor.
 - SwiftVPL / [repo](https://github.com/NathanFlurry/VisualProgrammingLanguage) / [🎥 video](https://www.youtube.com/watch?v=BNWC_OF5Q-Y). A visual programming language written in Swift that assembles to executable Swift code. WWDC '18 scholarship submission.
+- ton-lang / [repo](https://github.com/felko/ton-lang). A visual programming language, evaluated as a cellular automaton.
 - [Viskell](https://github.com/viskell/viskell/blob/master/viskell-nlfpday.pdf) / [repo](https://github.com/viskell/viskell). Visual programming meets Haskell.
 
 
