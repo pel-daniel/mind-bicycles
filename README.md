@@ -133,6 +133,8 @@
 - [Guesstimate](https://www.getguesstimate.com/) / [repo](https://github.com/getguesstimate/guesstimate-app/). A spreadsheet for things that aren’t certain.
 - [Mesh](http://mesh-spreadsheet.com/) / [repo](https://github.com/chrispsn/mesh/). JavaScript code editor that feels like a spreadsheet.
 - [Microsoft's Research for Excel](https://www.microsoft.com/en-us/research/blog/influencing-mainstream-software-applying-programming-language-research-ideas-to-transform-spreadsheets/) / [🎥 video: Excel's new data types](https://www.youtube.com/watch?v=gbImc7A8_Q8).
+- [Userland](https://hisham.hm/userland/) / [repo](https://github.com/hishamhm/userland) / [🎥 demo](https://www.youtube.com/watch?v=gla830WPBVU). 
+Userland is an integrated dataflow environment for end-users. It allows users to interact with modules that implement functionality for different domains from a single user interface and combine these modules in creative ways. There are currently three different modules: spreadsheet, shell & synth.
 
 
 ## State machines/State charts
