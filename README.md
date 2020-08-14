@@ -146,10 +146,10 @@ Userland is an integrated dataflow environment for end-users. It allows users to
 
 ## Visual Programming with Nodes
 
+- [Enso](https://enso.org/) / [repo](https://github.com/enso-org/enso). Formerly Luna. Hybrid visual and textual functional programming for data processing.
 - Glance / [repo](https://github.com/rgleichman/glance). A visual Haskell.
 - Lire / [repo](https://github.com/honix/Lire). Visual programming tool based on Common Lisp.
 - [Lobe](https://lobe.ai/). Train ML models with a Node interface.
-- [Enso](https://enso.org/) / [repo](https://github.com/enso-org/enso). Formerly Luna. A WYSIWYG language for data processing.
 - [NoFlo](https://noflojs.org/) / [repo](https://github.com/noflo/noflo). Flow-based programming for JavaScript.
 - [Pane](http://joshuahhh.com/projects/pane/) / [🎥 video](https://www.youtube.com/watch?v=fIEcXAHy6bU). Programming with visible data.
 - [rete.js](https://rete.js.org) / [repo](https://github.com/retejs/rete). JavaScript framework for visual programming and creating node editor.
