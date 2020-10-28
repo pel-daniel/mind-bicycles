@@ -30,6 +30,7 @@
 ## Code Editors
 
 - [Code Bubbles](http://www.andrewbragdon.com/codebubbles_site.asp) / [🎥 video](https://www.youtube.com/watch?v=PsPX0nElJ0k). The essential goal of this project is to make it easier for developers to see many fragments of code (or other information) at once based on collections of lightweight, editable fragments called bubbles.
+- [Code Canvas](https://www.microsoft.com/en-us/research/project/code-canvas/) / [🎥 video](https://www.youtube.com/watch?v=tsFfyli2Y9s). Is a new user experience for Visual Studio 2010 that provides an infinite zoomable surface for software development.
 - [Light Table](http://lighttable.com/) / [repo](https://github.com/LightTable/LightTable) / [🎥 video](https://www.youtube.com/watch?v=52SVAMM3V78). The next generation code editor.
 
 
