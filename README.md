@@ -2,6 +2,7 @@
 
 ### Table of contents
 
+- [Browsers](#browsers)
 - [Charts](#charts)
 - [Code Editors](#code-editors)
 - [Datalog Inspired Environments](#datalog-inspired-environments)
@@ -21,6 +22,10 @@
 - [Visual Programming with Nodes](#visual-programming-with-nodes)
 - [Other lists with links](#other-lists-with-links)
 
+## Browsers
+
+- [the Browser Company](https://thebrowser.company). Building a better way to use the internet.
+- [MakeSpace](https://makespace.fun). A browser for you, your friends, and your community. A place to co-create, co-work, or just hang out.
 
 ## Charts
 
