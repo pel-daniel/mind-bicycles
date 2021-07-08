@@ -92,6 +92,7 @@
 - Leap Technology / [🎥 video](https://www.youtube.com/watch?v=o_TlE_U_X3c). The revolutionary navigation technology invented by Jef Raskin.
 - [Mercury](https://www.mercuryos.com). Is a speculative reimagining of the operating system as a fluid experience driven by human intent.
 - [Project Oberon](http://www.projectoberon.com/). Project Oberon is a design for a complete desktop computer system from scratch.  Its simplicity and clarity enables a single person to know and implement the whole system, while still providing enough power to make it useful and usable in a production environment.
+- [Unununium](https://www.techtalkz.com/threads/unununium-the-all-new-operating-system.156/). Is a free operating system with the goal of creating a highly componentized graphical real-time operating system.
 
 
 ## Other
