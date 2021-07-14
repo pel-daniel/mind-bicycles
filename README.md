@@ -182,3 +182,5 @@ Userland is an integrated dataflow environment for end-users. It allows users to
 - [SomethingNew](https://github.com/d-cook/SomethingNew). Collaboration for reinventing software in human terms.
 - [Visual Programming Codex](https://github.com/ivanreese/visual-programming-codex)
 - [Visual Programming Languages - Snapshots](http://blog.interfacevision.com/design/design-visual-progarmming-languages-snapshots/)
+- [Programming Languages for Enthusiasts](https://github.com/prathyvsh/pl-catalog)
+
