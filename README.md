@@ -170,6 +170,7 @@ Userland is an integrated dataflow environment for end-users. It allows users to
 - SwiftVPL / [repo](https://github.com/NathanFlurry/VisualProgrammingLanguage) / [🎥 video](https://www.youtube.com/watch?v=BNWC_OF5Q-Y). A visual programming language written in Swift that assembles to executable Swift code. WWDC '18 scholarship submission.
 - ton-lang / [repo](https://github.com/felko/ton-lang). A visual programming language, evaluated as a cellular automaton.
 - [Viskell](https://github.com/viskell/viskell/blob/master/viskell-nlfpday.pdf) / [repo](https://github.com/viskell/viskell). Visual programming meets Haskell.
+- [Vlojure](https://vlojure.io) / [repo](https://github.com/Ella-Hoeppner/Vlojure) / [🎥 video](https://www.youtube.com/watch?v=1OcAUhe3E1E). A visual programming interface for ClojureScript.
 
 
 ## Other lists with links
