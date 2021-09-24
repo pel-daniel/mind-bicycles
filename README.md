@@ -135,6 +135,7 @@
 
 ## Smalltalk like Environment
 
+- [Cloxp](http://cloxp.github.io) / [repo](https://github.com/cloxp/cloxp-install) / [🎥 demo](https://www.youtube.com/watch?v=6x_4IHKIPas) / [🎥 40 min talk](https://www.youtube.com/watch?v=qQvvgzvPgQI). Clojure IDE for explorative and interactive development.
 - [Fizzygum](http://fizzygum.org/) / [repo](http://fizzygum.org/). A new web framework, an entire platform really, designed from the ground up to handle complex things easily. Put the power of an entire Operating System at your fingertips.
 
 
