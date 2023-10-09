@@ -25,7 +25,7 @@
 ## Browsers
 
 - [the Browser Company](https://thebrowser.company). Building a better way to use the internet.
-- [MakeSpace](https://makespace.fun). A browser for you, your friends, and your community. A place to co-create, co-work, or just hang out.
+- [MakeSpace](https://web.archive.org/web/20220615184037/https://makespace.fun/). A browser for you, your friends, and your community. A place to co-create, co-work, or just hang out.
 
 ## Charts
 
