@@ -114,7 +114,6 @@
 ## Projectional Editors
 
 - [Envision](https://www.pm.inf.ethz.ch/research/envision.html) / [repo](https://github.com/dimitar-asenov/Envision). A next-generation IDE that makes programming more efficient.
-- [Luna lang](www.luna-lang.org) / [repo](https://github.com/luna/luna). A WYSIWYG language for data processing.
 - [Maniposynth](http://maniposynth.org). Visual non-linear editing, live programming, and synthesis for (some of) OCaml.
 - Moonchild / [repo](https://github.com/harc/moonchild) / [🎥 5-minute highlight reel](https://vimeo.com/106578509) [🎥 15-minute demo of Moonchild](https://vimeo.com/106498564). It's a toolkit for experimenting with new kinds of programming interfaces. It's based on CodeMirror, a web-based text editor. Moonchild adds a framework which makes it easy to create plugins which modify and extend the source code presentation.
 - [MPS](https://www.jetbrains.com/mps/) / [repo(mirror)](https://github.com/JetBrains/MPS). Create your own Domain Specific Language.
